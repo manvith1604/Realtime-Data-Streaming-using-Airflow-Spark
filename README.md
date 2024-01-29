@@ -25,7 +25,7 @@ The project is designed with the following components:
 - **Apache Spark**: For data processing with its master and worker nodes.
 - **Cassandra**: Where the processed data will be stored.
 
-## What You'll Learn
+## Highlights
 
 - Setting up a data pipeline with Apache Airflow
 - Real-time data streaming with Apache Kafka
@@ -62,8 +62,4 @@ The project is designed with the following components:
     docker-compose up
     ```
 
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
-
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
+Inspired from [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
