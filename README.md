@@ -62,4 +62,4 @@ The project is designed with the following components:
     docker-compose up
     ```
 
-Inspired from [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY](https://python.plainenglish.io/realtime-data-engineering-project-with-airflow-kafka-spark-cassandra-and-postgres-804bcd963974)https://python.plainenglish.io/realtime-data-engineering-project-with-airflow-kafka-spark-cassandra-and-postgres-804bcd963974).
+Inspired from [Medium](https://python.plainenglish.io/realtime-data-engineering-project-with-airflow-kafka-spark-cassandra-and-postgres-804bcd963974).
